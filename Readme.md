@@ -20,11 +20,11 @@ Coin Crafter is a decentralized application (DApp) that allows users to deploy t
 
 ## Contract Details
 
-- **Contract Address of the Coin Deployed using this Dapp**: `0xFE642bfd1Fa2c85B8eeb477a636052009B19d403`
+- **Contract Address of the Coin Deployed using this Dapp**: `0x9FC747f3949e57cA4FE1d6E5B3C3AF0dA87050Fc`
 - **Network**: Mantle Sepolia Testnet
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://explorer.sepolia.mantle.xyz/address/0xFE642bfd1Fa2c85B8eeb477a636052009B19d403)
+- **Contract Address**: [View on Explorer](https://explorer.sepolia.mantle.xyz/address/0x9FC747f3949e57cA4FE1d6E5B3C3AF0dA87050Fc)
 - **Coin Used**: MNT
 
 
